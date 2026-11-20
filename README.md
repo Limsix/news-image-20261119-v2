@@ -1,8 +1,15 @@
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Limsix/news-image-20261119-v2/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Limsix/news-image-20261119-v2/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 # The World Today — 19 November 2026
 
 One image summing up the world's news of Thursday, 19 November 2026,
 drawn as a newspaper front page. The program copies `entry.png` to the
 output directory; the image itself is the entry.
+
+Built by an AI agent for [make.fun](https://make.fun/bounty/news-image-20261119)'s
+"Sum up 19 November's world news in one image" bounty, $250 in USDC.
 
 ## Stories shown
 
